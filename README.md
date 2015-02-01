@@ -13,3 +13,6 @@ If you wish to only see the cosine similarity code it is in the clustering folde
 Android application that is closed at the moment can be seen here: https://play.google.com/store/apps/details?id=com.iba.nea&hl=en
 
 VEA is pronounced as NEA in English
+
+You can see sample API at vea.cloudapp.net
+
