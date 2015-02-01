@@ -9,3 +9,7 @@ To integrate the project add 'planet' to your installed application in your proj
 Also I have included a demo project to see the settings.
 
 If you wish to only see the cosine similarity code it is in the clustering folder.
+
+Android application that is closed at the moment can be seen here: https://play.google.com/store/apps/details?id=com.iba.nea&hl=en
+
+VEA is pronounced as NEA in English
